@@ -79,6 +79,9 @@ Welcome to the Discord.py Example Tutorial Bot! This bot is designed to help you
 
 ## Usage
 
+You can run the Bot in youre IDE or in a consol with python ```python
+                                                            main.py
+                                                            ```
 Once the bot is running and invited to your server, you can use the following commands in any text channel the bot has access to.
 
 ## Commands
