@@ -67,9 +67,11 @@ Welcome to the Discord.py Example Tutorial Bot! This bot is designed to help you
 ## Running the Bot
 
 1. **Start the bot:**
+    Console:
     ```bash
     python bot.py
     ```
+    Or in youre IDE (if you using a IDE)
 
 2. **Invite the bot to your server:**
     - Go to the "OAuth2" tab in your Discord application.
@@ -78,10 +80,6 @@ Welcome to the Discord.py Example Tutorial Bot! This bot is designed to help you
     - Select your server and invite the bot.
 
 ## Usage
-
-You can run the Bot in youre IDE or in a consol with python ```python
-                                                            main.py
-                                                            ```.
 
 Once the bot is running and invited to your server, you can use the following commands in any text channel the bot has access to.
 
