@@ -35,7 +35,7 @@ Welcome to the Discord.py Example Tutorial Bot! This bot is designed to help you
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/discordpy-example-tutorial-bot.git
+    git clone https://github.com/maxiroe140/Discord-Example-Bot.git
     cd discordpy-example-tutorial-bot
     ```
 
