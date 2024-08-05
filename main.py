@@ -23,7 +23,7 @@ async def on_ready():
     update_status.start()
     logging.info(f'We are logged in as {bot.user.name}')
     await bot.load_extension("cogs.ErrorHandeling")
-
+    await bot.load_extension("cogs.General")
 
 
 @tasks.loop(minutes=5)
